@@ -13,8 +13,6 @@ class NoteDetailsPage extends StatefulWidget {
 
   NoteController noteController=Get.put(NoteController());
 
-  //bool fav=false;
-
 class _NoteDetailsPageState extends State<NoteDetailsPage> {
   @override
   Widget build(BuildContext context) {

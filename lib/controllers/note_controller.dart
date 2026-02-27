@@ -25,23 +25,6 @@ class NoteController extends GetxController{
     update();
   }
 
-
-  // void addFavourite(NoteModel note){
-  //   if (!favourite.contains(note)) {
-  //     favourite.add(note);
-  //   }
-  //   update();
-  // }
-  //
-  // void removeFavourite(NoteModel note) {
-  //   favourite.remove(note);
-  //   update();
-  // }
-  //
-  // bool isFavourite(NoteModel note) {
-  //   return favourite.contains(note);
-  // }
-
   addFavourite(NoteModel note) {
     if (!isFavourite(note)) {
       boxFav.add(note);

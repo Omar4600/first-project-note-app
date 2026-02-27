@@ -1,10 +1,8 @@
 import 'package:atfortyone_assi/controllers/note_controller.dart';
-import 'package:atfortyone_assi/models/note_models.dart';
 import 'package:atfortyone_assi/pages/favourite.dart';
 import 'package:atfortyone_assi/pages/note.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:intl/intl.dart';
 
 import 'add_edit_note_page.dart';
 
@@ -21,8 +19,6 @@ class _BottomNavBarPageState extends State<BottomNavBarPage> {
 
   List<Widget> pages = [NotePage(),FavouritePage()];
   int selectedIndex=0;
-  // TextEditingController _titleClt = TextEditingController();
-  // TextEditingController _contentClt = TextEditingController();
 
   @override
   Widget build(BuildContext context) {

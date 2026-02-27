@@ -25,7 +25,6 @@ class _AddEditNotePageState extends State<AddEditNotePage> {
   void initState() {
     super.initState();
 
-    // যদি edit হয় তাহলে আগের data বসবে
     if (widget.note != null) {
       _titleClt.text = widget.note!.title;
       _contentClt.text = widget.note!.content;

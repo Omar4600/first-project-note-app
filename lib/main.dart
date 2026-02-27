@@ -1,6 +1,4 @@
 import 'package:atfortyone_assi/models/note_models.dart';
-import 'package:atfortyone_assi/pages/bottom_nav_bar.dart';
-import 'package:atfortyone_assi/pages/note_details.dart';
 import 'package:atfortyone_assi/pages/splash_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
