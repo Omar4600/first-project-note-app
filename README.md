@@ -5,15 +5,22 @@ A new Flutter project.
 ## Getting Started
 
 🧠 Project Overview
+
 This Flutter app is a simple notes management application. Users can add, view, and organize their notes in a clean and intuitive UI. This project was built as a learning experience to strengthen my Flutter skills and grasp core mobile app development patterns.
 
 📍 Built using Dart & Flutter Framework — a cross-platform toolkit for building beautiful native apps for mobile, web, and desktop.
 
+
 🚀 Features
+
 ✔️ Create and store notes
+
 ✔️ View notes in a structured layout
+
 ✔️ Intuitive and beginner-friendly UI
+
 ✔️ Basic navigation between screens
+
 
 🎯 This project demonstrates:
 -> UI design with Flutter widgets
