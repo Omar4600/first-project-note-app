@@ -93,12 +93,14 @@ This project helped me:
 Got suggestions or want to collaborate?
 Connect with me:
 
-📧 04nahid06@gmail.com
+  📧 04nahid06@gmail.com
 
-GitHub: https://github.com/Omar4600
+  GitHub: https://github.com/Omar4600
 
 
 📝 Summary
+
+
 
 
 This project is a good demonstration of:
